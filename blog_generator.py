@@ -17,4 +17,4 @@ def generate_blog(paragraph_topic):
 
     return retrieve_blog
 
-print(generate_blog("What was Buddha's perspective on the afterlife?"))
+print(generate_blog("Explain how sharpe ratio measures the performance of an investment."))
