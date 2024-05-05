@@ -6,7 +6,9 @@ Projects List
 Below is a list of projects included in this repository:
 
 Youtube Data Visualization: My first attempt at using pandas and plotly libraries in Google Colab to visualize basic analytics of the top 1000 channels (subscriber counts, categories, years started) 
+
 Blog Generator: AI blog/paragraph generator that uses OpenAI API and GPT 3.5 to answer prompts.
+
 QR Code Generator: Uses qrcode library that saves a QR code .png of any website link
 
 Contributing
