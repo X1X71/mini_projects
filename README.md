@@ -1,9 +1,7 @@
 Mini Projects
-
 This repository is a compilation of mini projects aimed at exploring various Python concepts and libraries. Some are implemented using Google Colab and Jupyter Notebook to provide an interactive environment for experimentation and learning.
 
-Projects List
-Below is a list of projects included in this repository:
+List of projects included in this repository:
 
 Youtube Data Visualization: My first attempt at using pandas and plotly libraries in Google Colab to visualize basic analytics of the top 1000 channels (subscriber counts, categories, years started) 
 
