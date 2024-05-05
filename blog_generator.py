@@ -4,7 +4,7 @@ import openai
 openai.api_key = ''
 
 
-# 'text-davinci-002' deprecated, use 'gpt-3.5-turbo-instruct' instead. exceeded quota. not paying for gpt
+# 'text-davinci-002' deprecated, use 'gpt-3.5-turbo-instruct' instead. exceeded quota. not paying for gpt lol
 def generate_blog(paragraph_topic):
     response = openai.Completion.create(
         model = 'gpt-3.5-turbo-instruct',
