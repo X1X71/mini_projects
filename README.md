@@ -1,4 +1,5 @@
 Mini Projects
+
 This repository is a compilation of mini projects aimed at exploring various Python concepts and libraries. Some are implemented using Google Colab and Jupyter Notebook to provide an interactive environment for experimentation and learning.
 
 List of projects included in this repository:
